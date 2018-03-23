@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 何达宏
+Build-Jdk: 1.8.0_121
+Implementation-Title: webim
+Implementation-Version: 3.7.0
+Implementation-Vendor-Id: com.ukefu
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+

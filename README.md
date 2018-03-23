@@ -52,7 +52,7 @@ DEMO访问地址：[优客服（UCKeFu-WebIM）](http://uk.ukewo.cn/) ， 访问
 
 ### 1. 将项目按照maven格式配置好
 ### 1. 将ukefu.sql脚本在mysql数据库里运行，创建数据库和表
-
+### 访问链接localhost  admin 123456
 
 ### 1. 配置项目中的application.properties文件中的数据库连接
 
